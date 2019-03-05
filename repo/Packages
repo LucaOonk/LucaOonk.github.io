@@ -39,21 +39,3 @@ Dev: sassoty
 Icon: file:///Library/PreferenceLoader/Preferences/PullToRespring@2x.png
 Name: PullToRespring
 
-Package: com.spark.melior
-Version: 1.0.6-1
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 844
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.spark.melior_1.0.6-1.deb
-Size: 208304
-MD5sum: 0d59359a996519fc240c6ae74ddabbdf
-SHA1: 0a23654b3a8c3031a6fa5ea8cdc06204a6888a5e
-SHA256: 910ea64e37c256083df7b75837b67a0875180b23bed664cb8247ef12c480f97d
-Section: Tweaks
-Description: Custom volume HUD
-Author: Spark & Dennis Bednarz
-Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
-Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Melior
-Name: Melior [Public]
-
