@@ -18,6 +18,126 @@ Icon: http://i.imgur.com/tvLxnB5.png
 Name: Zeppelin
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: com.jbp.transparentdock
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 65
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Filename: ./debs/transparentdock_1.1-1.deb
+Size: 3302
+MD5sum: b4270250fd412811062785d2a5f120aa
+SHA1: 6c7184ad3e8048b568bc58bfadbaa3d4bfcae333
+SHA256: 159c714ad0e0f54d80ac3bf8f4491e3c3df054731671e98839e1e0cd7edaf9b1
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentdockDp
+Description: Remove iOS 7 dock's blurred background
+Author: Jonathan Bailey <jon.bailey889@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentdockDp
+Dev: jonbailey889
+Name: TransparentDock
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.julioverne.goodwifi
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta4_iphoneos-arm.deb
+Size: 54976
+MD5sum: 3866bac5a02349a472a818f7180e28ca
+SHA1: 88bc22ef84a13d778d948ba305a64dc3b921955a
+SHA256: 1ca94e369ed089db104129fc8dde5984e80b7dc90eb45c5bc9d87d42e50b317a
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: GoodWiFi
+
+Package: com.laughingquoll.noctis
+Version: 1.9.8-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1312
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
+Conflicts: com.laughingquoll.noctis9
+Filename: ./debs/com.laughingquoll.noctis_1.9.8-1.deb
+Size: 224058
+MD5sum: bf0feed3d1738d81f4d2a8fe1d3c10dd
+SHA1: 8b42ace611afe7f08aef348a5801e90773cb1496
+SHA256: 6c1f4eb4e2d3c7e71cb6e63023a19262aaaad6a094910b9abda59d4cebca7f6b
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noctis10Dp
+Description: Dark Mode for iOS 10
+Tag: purpose::extension, compatible::ios10
+Author: LaughingQuoll <laughingquoll@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noctis10Dp
+Dev: laughingquoll
+Icon: file:///Library/PreferenceBundles/NoctisPrefs.bundle/icon@2x.png
+Name: Noctis (iOS 10)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.r333d.cylinder
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 899
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/cylinder_1.0.6.deb
+Size: 255488
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+SHA1: 8ee421d677df4ebf70b1f39f58e3ff9d3b831e1a
+SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Description: Make your icons dance
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Dev: rweichler
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Name: Cylinder
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.ruler225.videohud
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 124
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/videohud_2.3.deb
+Size: 14058
+MD5sum: 71459d0222eff6bdb662c1c7bbc5f238
+SHA1: a1fab7f0d56f26014afdec2bc24fc9362b7cfb80
+SHA256: 6a28f6e907e17b3fbc83dc1b39b54203f4ef5dc1cf0d9fbab3a6489579a2db57
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videohudDp
+Description: iOS 11 video player HUD used systemwide!
+Tag: purpose::extension, compatible::ios11
+Author: Youssef Mikhail <ymiscool@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videohudDp
+Dev: ymiscool
+Name: VideoHUD
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.spark.DoubleTapLock
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.DoubleTapLock_0.0.3.deb
+Size: 23484
+MD5sum: 917c4f565a3c809a6d892d17c1537ca8
+SHA1: 89a23631ae2750d5f534ae96a317a6cb8caac82a
+SHA256: 798928e4118655c70e95c3b5ff176cb751110d8432d13a0ca891788bfc8aa0f3
+Section: Tweaks
+Description: Double tap homescreen wallpaper to lock device
+Author: Spark
+Name: DoubleTapLock [Public]
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
@@ -49,4 +169,20 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
+
+Package: me.gmoran.fiveicondockxi
+Version: 0.0.1-20
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.gmoran.fiveicondockxi_0.0.1-20_iphoneos-arm.deb
+Size: 2560
+MD5sum: 44167107191191eb1432781917787540
+SHA1: 6e4c9dee46a2e2d978b97808e067a56c47ae06e5
+SHA256: b76c02b9854e0e5c40244bcdd4118dd31eae8d104ce9140c72499a691495c300
+Section: Tweaks
+Description: Five icon dock for iOS 11.
+Author: Guillermo Moran
+Name: FiveIconDockXI
 
