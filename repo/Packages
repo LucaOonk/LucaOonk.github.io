@@ -18,6 +18,53 @@ Icon: http://i.imgur.com/tvLxnB5.png
 Name: Zeppelin
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: com.anemonetheming.anemone
+Version: 2.1.8-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 8112
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
+Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
+Filename: ./debs/com.anemonetheming.anemone_2.1.8-2.deb
+Size: 1857818
+MD5sum: 528a922eb2c41c23c0240c53b685a18d
+SHA1: cdb3f85a2fac3dd8fd0fc05647e6e58fe4573c84
+SHA256: ea2200f6e0e93a1d5b7ee53bcbf46e5b6700a7706ecbf71842426df51a8ee6a0
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
+Description: An awesome theme manager!
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
+Dev: anemonetheming
+Icon: file:///Applications/Anemone.app/icon.png
+Name: Anemone
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.brunonfl.wijoin
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 621
+Depends: firmware(>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/wijoin_1.2.deb
+Size: 351514
+MD5sum: 018f3d3fb24415bc2ceb815fa5dc77e0
+SHA1: 7a81e489826a5d6e7e437747ce3507bb12c29ae7
+SHA256: 9c830d83a72403203d92c08e462d25ddb8805c896b9468625ce526317700e7aa
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wijoinDp
+Description: Show the network you connected to when you connect like in Android!
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: Bruno Andrade <brubiluco@globo.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wijoinDp
+Dev: brunonfl
+Icon: file:///Library/PreferenceBundles/WiJoinPrefs.bundle/WiJoinPrefs@2x.png
+Name: WiJoin
+
 Package: com.jbp.transparentdock
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -79,6 +126,28 @@ Icon: file:///Library/PreferenceBundles/NoctisPrefs.bundle/icon@2x.png
 Name: Noctis (iOS 10)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.laughingquoll.siliqua
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 192
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.laughingquoll.siliqua_1.0-2.deb
+Size: 19900
+MD5sum: 2074d18474693189dd8da1c7586e0d5f
+SHA1: ed3f28310bfaf48d54b78ae311c2fd7a3c63e50d
+SHA256: a16136172be2f3f4cb122990073c159a9f292cf3ae9a58b8a6cf5886503b907e
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=siliquaDp
+Description: AirPods Gestures and New Features
+Tag: purpose::extension, compatible::ios9, compatible::ios10
+Author: LaughingQuoll <laughingquoll@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=siliquaDp
+Dev: laughingquoll
+Icon: file::///Library/PreferenceBundles/SilquaPrefs.bundle/icon@2x.png
+Name: Siliqua
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.r333d.cylinder
 Version: 1.0.6
 Architecture: iphoneos-arm
@@ -99,6 +168,46 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
 Dev: rweichler
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 Name: Cylinder
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.repo.xarold.com.siliqua2
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Xarold <contact@xarold.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: ./debs/com.repo.xarold.com.siliqua2_2.0.1.deb
+Size: 12930
+MD5sum: 6aa63ed7c39e8ac9b85639f4cf84a24e
+SHA1: 9508ca776e2cda892ac0db66b73fe0d101c5de79
+SHA256: a8f482ce1108c022b35fd23a7c0c15410789e847e2c83478af4b79dc5fb6ec6a
+Section: Tweaks
+Description: AirPods Gestures and New Features
+Author: LaughingQuoll
+Depiction: http://repo.xarold.com/depiction.php?id=siliqua2
+Name: Siliqua 2
+
+Package: com.rishanan.springplus11
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 339
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Conflicts: com.rishanan.bke, com.rishanan.noti, com.rishanan.ndb,com.rishanan.swP, com.rishanan.springplus, com.rishanan.BIOS10
+Filename: ./debs/com.rishanan.springplus11_1.2.deb
+Size: 32652
+MD5sum: 7286c175c7dd4e5869410c454632978e
+SHA1: 8893bd5567850589d849b4c5e5ee9b691f5e03f1
+SHA256: 3b6453995653dfe664ba85e722ad69b5960ecd87b306341bdc78aae52dca1cf3
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springplus11Dp
+Description: Internal settings unlocked for ios 11.
+Tag: purpose::extension, compatible::ios11
+Author: RIshanan <rishanan1996@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springplus11Dp
+Dev: rishanan
+Icon: file:///Library/PreferenceBundles/SpringPref.bundle/icon@2x.png
+Name: SpringPlus11
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.ruler225.videohud
@@ -138,6 +247,24 @@ Description: Double tap homescreen wallpaper to lock device
 Author: Spark
 Name: DoubleTapLock [Public]
 
+Package: com.spark.melior
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 844
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.spark.melior_1.0.6-1.deb
+Size: 208304
+MD5sum: 0d59359a996519fc240c6ae74ddabbdf
+SHA1: 0a23654b3a8c3031a6fa5ea8cdc06204a6888a5e
+SHA256: 910ea64e37c256083df7b75837b67a0875180b23bed664cb8247ef12c480f97d
+Section: Tweaks
+Description: Custom volume HUD
+Author: Spark & Dennis Bednarz
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Melior
+Name: Melior [Public]
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
@@ -169,6 +296,49 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
+
+Package: com.xcxiao.simplelsios10
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 862
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/simplelockscreenios10_1.5.1.deb
+Size: 147736
+MD5sum: f75ec6f45bb0ee1e7f125364b141eee3
+SHA1: 4dd28b08bfcfd19c2b278a9a954041f8ff3a908a
+SHA256: adac4a1cf35d23aa268b28ec3d5c97641ac8aa00262d79ecbd5ad09e8073fbb2
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=simplelockscreenios10Dp
+Description: Simple lockscreen for iOS 10/11 devices.
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Author: XCXiao <958169971@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=simplelockscreenios10Dp
+Dev: xcxiao
+Icon: file:///Library/PreferenceBundles/SIMPLELSPB.bundle/icon@2x.png
+Name: SimpleLSiOS
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: info.rpdev.betterfivecolumnhomescreen
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 130
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), com.chpwn.iconsupport
+Filename: ./debs/betterfivecolumnhomescreen_1.0.1.deb
+Size: 8522
+MD5sum: 75742011f213c1ac6febba5dadafffaa
+SHA1: ee246aa5b839ed47addc7a25d7c9bfeaaaba0b7e
+SHA256: 8558406cd2398928c4bbae4ac19e080dfdc22c89b7c27302ef46669df3cf49b5
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterfivecolumnhomescreenDp
+Description: Five Column Homescreen with proper spacing!
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: Redpandadev <rpdev@rpdev.info>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterfivecolumnhomescreenDp
+Dev: rpdev
+Name: betterFiveColumnHomescreen
 
 Package: me.gmoran.fiveicondockxi
 Version: 0.0.1-20
