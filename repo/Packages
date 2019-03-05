@@ -1,3 +1,23 @@
+Package: com.alexzielenski.zeppelin
+Version: 2.1.0-12
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.alexzielenski.zeppelin_2.1.0-12_iphoneos-arm.deb
+Size: 954352
+MD5sum: b2306aca6cc4afe7ccc57210c98c0612
+SHA1: d890a6b07d87e73f6fe50ed09ddcbdd1fbb12684
+SHA256: e786a1e78b97abe1690388fe1795c9b32f1256428cac6a49bd641f956cee9113
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/zeppelin.php
+Description: Replaces carrier text with an image!
+Author: Alex Zielenski <support@alexzielenski.com>
+Depiction: http://modmyi.com/info/zeppelin.d.php
+Icon: http://i.imgur.com/tvLxnB5.png
+Name: Zeppelin
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
 Package: com.sassoty.pulltorespring
 Version: 1.2
 Architecture: iphoneos-arm
