@@ -32,7 +32,7 @@ Size: 1857818
 MD5sum: 528a922eb2c41c23c0240c53b685a18d
 SHA1: cdb3f85a2fac3dd8fd0fc05647e6e58fe4573c84
 SHA256: ea2200f6e0e93a1d5b7ee53bcbf46e5b6700a7706ecbf71842426df51a8ee6a0
-Section: Tweaks
+Section: Theming
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
 Description: An awesome theme manager!
