@@ -1,0 +1,59 @@
+Package: com.alexzielenski.zeppelin
+Version: 2.1.0-12
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.alexzielenski.zeppelin_2.1.0-12_iphoneos-arm.deb
+Size: 954352
+MD5sum: b2306aca6cc4afe7ccc57210c98c0612
+SHA1: d890a6b07d87e73f6fe50ed09ddcbdd1fbb12684
+SHA256: e786a1e78b97abe1690388fe1795c9b32f1256428cac6a49bd641f956cee9113
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/zeppelin.php
+Description: Replaces carrier text with an image!
+Author: Alex Zielenski <support@alexzielenski.com>
+Depiction: http://modmyi.com/info/zeppelin.d.php
+Icon: http://i.imgur.com/tvLxnB5.png
+Name: Zeppelin
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.sassoty.pulltorespring
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader
+Filename: ./debs/com.sassoty.pulltorespring_1.2.deb
+Size: 15492
+MD5sum: 9c4a1e77a40ca74cc5edb9991b40868c
+SHA1: 6e6a4cbfab8559e29ea3527bc45d56f3c0d4b83b
+SHA256: dad52ea85d17c4f84a33895ea1f9d4e725baef316953c0342d6cccd1b9a3045f
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pulltorespringDp
+Description: Pull down in Settings to respring
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Author: Noah Saso <noahsaso@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pulltorespringDp
+Dev: sassoty
+Icon: file:///Library/PreferenceLoader/Preferences/PullToRespring@2x.png
+Name: PullToRespring
+
+Package: com.spark.melior
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 844
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.spark.melior_1.0.6-1.deb
+Size: 208304
+MD5sum: 0d59359a996519fc240c6ae74ddabbdf
+SHA1: 0a23654b3a8c3031a6fa5ea8cdc06204a6888a5e
+SHA256: 910ea64e37c256083df7b75837b67a0875180b23bed664cb8247ef12c480f97d
+Section: Tweaks
+Description: Custom volume HUD
+Author: Spark & Dennis Bednarz
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Melior
+Name: Melior [Public]
+
