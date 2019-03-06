@@ -16,7 +16,6 @@ Author: Alex Zielenski <support@alexzielenski.com>
 Depiction: http://modmyi.com/info/zeppelin.d.php
 Icon: http://i.imgur.com/tvLxnB5.png
 Name: Zeppelin
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.anemonetheming.anemone
 Version: 2.1.8-2
@@ -32,7 +31,7 @@ Size: 1857818
 MD5sum: 528a922eb2c41c23c0240c53b685a18d
 SHA1: cdb3f85a2fac3dd8fd0fc05647e6e58fe4573c84
 SHA256: ea2200f6e0e93a1d5b7ee53bcbf46e5b6700a7706ecbf71842426df51a8ee6a0
-Section: Theming
+Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
 Description: An awesome theme manager!
@@ -42,7 +41,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
 Dev: anemonetheming
 Icon: file:///Applications/Anemone.app/icon.png
 Name: Anemone
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.brunonfl.wijoin
 Version: 1.2
@@ -124,7 +122,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noctis10Dp
 Dev: laughingquoll
 Icon: file:///Library/PreferenceBundles/NoctisPrefs.bundle/icon@2x.png
 Name: Noctis (iOS 10)
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.laughingquoll.siliqua
 Version: 1.0-2
@@ -146,7 +143,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=siliquaDp
 Dev: laughingquoll
 Icon: file::///Library/PreferenceBundles/SilquaPrefs.bundle/icon@2x.png
 Name: Siliqua
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.r333d.cylinder
 Version: 1.0.6
@@ -168,7 +164,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
 Dev: rweichler
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 Name: Cylinder
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.repo.xarold.com.siliqua2
 Version: 2.0.1
@@ -208,7 +203,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springplus
 Dev: rishanan
 Icon: file:///Library/PreferenceBundles/SpringPref.bundle/icon@2x.png
 Name: SpringPlus11
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.ruler225.videohud
 Version: 2.3
@@ -229,7 +223,6 @@ Author: Youssef Mikhail <ymiscool@hotmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videohudDp
 Dev: ymiscool
 Name: VideoHUD
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.spark.DoubleTapLock
 Version: 0.0.3
@@ -318,7 +311,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=simplelock
 Dev: xcxiao
 Icon: file:///Library/PreferenceBundles/SIMPLELSPB.bundle/icon@2x.png
 Name: SimpleLSiOS
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: info.rpdev.betterfivecolumnhomescreen
 Version: 1.0.1
