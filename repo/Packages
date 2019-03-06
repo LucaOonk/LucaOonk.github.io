@@ -18,7 +18,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompa
 Dev: jed
 Icon: file:///Library/PreferenceBundles/tweakCompatible_prefs.bundle/icon@2x.png
 Name: tweakCompatible
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.julioverne.goodwifi
 Version: 0.0~beta4
