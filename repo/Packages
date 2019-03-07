@@ -14,7 +14,6 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompat
 Description: Adds a way to check tweak compatibility in cydia
 Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Author: treAson <treasonftg@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompatibleDp
 Dev: jed
 Icon: file:///Library/PreferenceBundles/tweakCompatible_prefs.bundle/icon@2x.png
 Name: tweakCompatible
