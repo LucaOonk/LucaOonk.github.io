@@ -1,21 +1,28 @@
-Package: bz.jed.tweakcompatible
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 292
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/bz.jed.tweakcompatible_0.1.3.deb
-Size: 53448
-MD5sum: 7e9c4188ec0ba1d26c9cc341b9ffb8d0
-SHA1: f0f14b2dfff042814ebecec55b7f516a166a8d90
-SHA256: ef46ed914ad9f60dd598e35bf6dd2abd0862acb857edc926656fb13680f8ce6e
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompatibleDp
-Description: Adds a way to check tweak compatibility in cydia
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-Author: treAson <treasonftg@gmail.com>
-Dev: jed
-Icon: file:///Library/PreferenceBundles/tweakCompatible_prefs.bundle/icon@2x.png
-Name: tweakCompatible
-Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
