@@ -3,7 +3,7 @@ Version: 1.0.6-1
 Architecture: iphoneos-arm
 Maintainer: luca <luca@oonk.cf>
 Filename: ./debs/com.spark.meloir.deb
-Size: bytes
+Size: 208000
 Section: Tweaks
 Description: Better volume HID
 MD5sum: 0d59359a996519fc240c6ae74ddabbdf
