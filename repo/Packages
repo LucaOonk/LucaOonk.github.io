@@ -1,12 +1,18 @@
-Package: com.yourcompany.kk
-Version: 0.0.1-9
+Package: com.spark.melior
+Version: 1.0.6-1
 Architecture: iphoneos-arm
-Maintainer: maojj
-Installed-Size: 16
-Depends: mobilesubstrate
-Filename: deb//com.yourcompany.kk_0.0.1-9_iphoneos-arm.deb
-Size: 2512
-MD5sum: 1e1f1d1ba99cdc1d45f1d0a5e363227c
+Maintainer: Spark
+Installed-Size: 844
+Depends: mobilesubstrate, preferenceloader
+Filename: deb/com.spark.melior_1.0.6-1.deb
+Size: 208304
+MD5sum: 0d59359a996519fc240c6ae74ddabbdf
+SHA1: 0a23654b3a8c3031a6fa5ea8cdc06204a6888a5e
+SHA256: 910ea64e37c256083df7b75837b67a0875180b23bed664cb8247ef12c480f97d
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Custom volume HUD
+Author: Spark & Dennis Bednarz
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Melior
+Name: Melior [Public]
 

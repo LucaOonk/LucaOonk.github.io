@@ -1,6 +1,6 @@
-Origin: Luca's Repo
+Origin: maojj
 
-Label: Gulag
+Label: maojj
 
 Suite: stable
 
@@ -12,9 +12,9 @@ Architectures: iphoneos-arm
 
 Components: main
 
-Description: Repository of Luca Oonk
+Description: Repository of maojj
 
 MD5Sum:
-446ee58915c2672c7401c059b35315f3 309 Packages
-9e6cd5d1de37ab362f411d5c19c4c7e2 246 Packages.gz
-49aba2b848ba31cb38a69c3b01e6fceb 274 Packages.bz2
+af5affaea0a4948b631239be0a094a4c 630 Packages
+39902c9cdf7bd3abdbd24cf56fdcc6b9 452 Packages.gz
+bfd66ab0b478ba3b5911a1dbd8932bf7 478 Packages.bz2
