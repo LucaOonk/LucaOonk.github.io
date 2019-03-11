@@ -2,7 +2,7 @@ Package: com.spark.meloir
 Version: 1.0.6-1
 Architecture: iphoneos-arm
 Maintainer: luca <luca@oonk.cf>
-Filename: debs//com.spark.meloir.deb
+Filename: ./debs/com.spark.meloir.deb
 Size: bytes
 Section: Tweaks
 Description: Better volume HID
