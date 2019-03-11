@@ -1,7 +1,5 @@
-
-repo/*.DS_Store
-repo/*.DS_Store
-*.DS_Store
-*.DS_Store
-etc/*
-etc/
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
