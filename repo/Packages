@@ -2,7 +2,7 @@ Package: com.spark.melior
 Version: 1.0.6-1
 Architecture: iphoneos-arm
 Maintainer: luca <luca@oonk.cf>
-Filename: /debs/com.spark.melior.deb
+Filename: //debs/com.spark.melior.deb
 Size: 208000
 Section: Tweaks
 Description: Better volume HUD
