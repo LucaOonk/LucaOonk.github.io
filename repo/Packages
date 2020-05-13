@@ -1,3 +1,19 @@
+Package: com.lucaoonk.customvolumesteps
+Version: 0.0.1-29+debug
+Architecture: iphoneos-arm
+Maintainer: Luca Oonk
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.lucaoonk.customvolumesteps_0.0.1-29+debug_iphoneos-arm.deb
+Size: 9308
+MD5sum: 81550b184efa59f3f784c2984441850e
+SHA1: 4d97faff42739c9000b9a6856a8bdc1eb655ce0d
+SHA256: 55ae75b189e156d103fc7b06abc03d59b5d46ec5e60487d9d0fde6e5dea5afb8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Luca Oonk
+Name: Custom Volume Steps
+
 Package: io.github.lucaoonk.customvolume
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
