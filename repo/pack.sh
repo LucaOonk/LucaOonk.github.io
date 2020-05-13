@@ -9,4 +9,5 @@ for file in `ls ./source`
 			fi
     done
 
-cd ./docs && ./gen.sh
+cd docs 
+bash ./gen.sh
