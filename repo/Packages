@@ -1,0 +1,16 @@
+Package: io.github.lucaoonk.customvolume
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Luca Oonk
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/io.github.lucaoonk.customvolume_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3794
+MD5sum: e7ece463fa43ba359f01c152161573f2
+SHA1: e33d6aa90068897fc04aa4c41b6a1071bcbf6c5f
+SHA256: 4fd26d8f97a20095115d3547b6b84d7aec6184d3fdff46ba45d511f0b496583c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Luca Oonk
+Name: CustomVolume
+
